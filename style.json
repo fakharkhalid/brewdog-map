@@ -222,23 +222,23 @@
       "type": "line",
       "source": "composite",
       "source-layer": "buildings",
-      "minzoom": 15,
+      "minzoom": 16,
       "layout": {
         "line-cap": "round",
         "line-join": "round",
         "visibility": "visible"
       },
       "paint": {
-        "line-color": "rgba(10, 211, 236, 0.4)",
-        "line-width": 3,
+        "line-color": "rgba(0, 224, 251, 1)",
+        "line-width": 1,
         "line-opacity": {
           "stops": [
             [
-              13,
+              1,
               0
             ],
             [
-              16,
+              17,
               1
             ]
           ]
@@ -257,12 +257,12 @@
         "visibility": "visible"
       },
       "paint": {
-        "line-color": "rgba(10, 211, 0, 0.6)",
+        "line-color": "rgba(0, 198, 255, 0.2)",
         "line-width": 1,
         "line-opacity": {
           "stops": [
             [
-              14,
+              1,
               0
             ],
             [
